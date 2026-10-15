@@ -50,13 +50,13 @@ Actual application captures, using built-in fictional sample content. No custome
 
 ## Development roadmap
 
-The private application uses GitHub Actions CI for automatic quality checks. Cloudflare Pages delivery is configured behind successful checks and awaits account/project setup; deployment is not yet active or verified. [CI/CD process and status](docs/CI_CD.md).
+The private application uses GitHub Actions CI and automatic Cloudflare Pages delivery after successful checks. The first pipeline deployment succeeded; production custom-domain verification remains pending. [CI/CD process and status](docs/CI_CD.md).
 
 Planned: secure owner-only administration, inquiry/customer management, request tracking, quotation preparation and approvals, order status, transactional emails and delivery tracking, communication history and dashboard analytics. These are future capabilities, not completed features. [Roadmap and current status](docs/ROADMAP.md).
 
 ## Live website
 
-Not deployed or verified yet. Scgenco.com is the intended project/domain identity; a live link will be added only after deployment verification. Cloudflare Pages preparation is documented privately; no hosting deployment was performed for this publication.
+The Cloudflare Pages pipeline has published the tested application. The intended scgenco.com production domain is not yet verified as serving that application; a live website link will be added after domain verification. Deployment configuration and credentials remain private.
 
 ## Contact and source privacy
 

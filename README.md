@@ -27,7 +27,7 @@
 | Private CI/CD process / Private CI/CD süreci | [Automation status](docs/CI_CD.md) |
 | Actual demo screens / Gerçek demo ekranları | [Screenshots](assets/screenshots/README.md) |
 
-**Live website / Canlı site:** Not deployed or verified yet / Henüz yayımlanmış veya doğrulanmış değil. Scgenco.com is the project name and intended domain, not a confirmed live link.
+**Delivery / Yayın:** The tested application was published by the private Cloudflare Pages pipeline / Test edilen uygulama private Cloudflare Pages pipeline'ı ile yayımlandı. The scgenco.com custom domain is not yet verified as serving it / scgenco.com özel alan adının bu uygulamayı sunduğu henüz doğrulanmadı. [CI/CD status / CI/CD durumu](docs/CI_CD.md).
 
 **Contact / İletişim:** [Email](mailto:s.canergenco@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sabri-caner-genco-762776216/) · [GitHub](https://github.com/SCanerG)
 

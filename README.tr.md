@@ -50,13 +50,13 @@ Gerçek uygulamadan, yerleşik kurgusal örneklerle alınmıştır. Müşteri ka
 
 ## Geliştirme yol haritası
 
-Private uygulama deposunda otomatik kalite kontrolleri için GitHub Actions CI kullanılır. Cloudflare Pages dağıtımı başarılı kontrollerin arkasında tanımlıdır; hesap/proje ayarlarını bekler ve henüz etkin veya doğrulanmış değildir. [CI/CD süreci ve durumu](docs/CI_CD.md).
+Private uygulama deposunda GitHub Actions CI ve başarılı kontrollerin ardından otomatik Cloudflare Pages yayını kullanılır. İlk pipeline dağıtımı başarılıdır; üretim özel alan adı doğrulaması beklenir. [CI/CD süreci ve durumu](docs/CI_CD.md).
 
 Planlananlar: güvenli sahip paneli, talep/müşteri yönetimi, hizmet takibi, teklif hazırlama ve onay, sipariş durumu, otomatik işlem e-postaları/teslimat takibi, iletişim geçmişi ve panel analitiği. Bunlar tamamlanmış özellikler değildir. [Yol haritası ve durum](docs/ROADMAP.md).
 
 ## Canlı site
 
-Henüz dağıtılmış veya doğrulanmış değil. Scgenco.com proje/planlanan alan adı kimliğidir; yalnızca gerçek dağıtım doğrulandıktan sonra canlı bağlantı eklenecektir. Cloudflare Pages hazırlığı özel belgelerde yer alır; bu yayın görevinde hosting dağıtımı yapılmadı.
+Cloudflare Pages pipeline'ı test edilen uygulamayı yayımladı. Hedef scgenco.com üretim alan adının bu uygulamayı sunduğu henüz doğrulanmadı; alan adı doğrulamasından sonra canlı site bağlantısı eklenecektir. Dağıtım yapılandırması ve kimlik bilgileri private alanda tutulur.
 
 ## İletişim ve kaynak mahremiyeti
 
