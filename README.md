@@ -24,6 +24,7 @@
 | High-level architecture / Genel mimari | [Architecture](docs/ARCHITECTURE.md) |
 | Confirmed technologies / Doğrulanan teknolojiler | [Technology stack](docs/TECH_STACK.md) |
 | Implemented and planned / Mevcut ve planlanan | [Roadmap](docs/ROADMAP.md) |
+| Private CI/CD process / Private CI/CD süreci | [Automation status](docs/CI_CD.md) |
 | Actual demo screens / Gerçek demo ekranları | [Screenshots](assets/screenshots/README.md) |
 
 **Live website / Canlı site:** Not deployed or verified yet / Henüz yayımlanmış veya doğrulanmış değil. Scgenco.com is the project name and intended domain, not a confirmed live link.

@@ -50,6 +50,8 @@ Gerçek uygulamadan, yerleşik kurgusal örneklerle alınmıştır. Müşteri ka
 
 ## Geliştirme yol haritası
 
+Private uygulama deposunda otomatik kalite kontrolleri için GitHub Actions CI kullanılır. Cloudflare Pages dağıtımı başarılı kontrollerin arkasında tanımlıdır; hesap/proje ayarlarını bekler ve henüz etkin veya doğrulanmış değildir. [CI/CD süreci ve durumu](docs/CI_CD.md).
+
 Planlananlar: güvenli sahip paneli, talep/müşteri yönetimi, hizmet takibi, teklif hazırlama ve onay, sipariş durumu, otomatik işlem e-postaları/teslimat takibi, iletişim geçmişi ve panel analitiği. Bunlar tamamlanmış özellikler değildir. [Yol haritası ve durum](docs/ROADMAP.md).
 
 ## Canlı site

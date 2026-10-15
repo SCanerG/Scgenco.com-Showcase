@@ -10,6 +10,8 @@ Real Estate Studio includes six business profiles, six templates and 18 fictiona
 
 ## Prepared, not deployed / Hazırlanmış, dağıtılmamış
 
+GitHub Actions CI is enabled for the private application. A gated Cloudflare delivery stage is configured but awaits account/project setup. Private uygulama için CI etkindir; Cloudflare CD aşaması erişim ve proje yapılandırması bekler. [CI/CD](CI_CD.md).
+
 Private source/public showcase separation, bilingual presentation and static hosting preparation. No live website or Cloudflare account configuration is claimed.
 
 ## Planned only / Yalnızca planlanan
