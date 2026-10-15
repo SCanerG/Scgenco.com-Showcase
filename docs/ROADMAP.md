@@ -4,7 +4,9 @@
 
 ## Implemented / Uygulanan
 
-Bilingual portfolio, service catalog and blog; three interactive concept studios; shared project brief; validated JSON transfer; opt-in browser persistence; original TR/EN audio playback; responsive dark/light themes. Randevu ve sepet davranışları kurgusal demodur; e-posta taslağı gerçek gönderim değildir.
+Bilingual portfolio, service catalog and blog; four interactive concept studios; shared project brief; validated JSON transfer; opt-in browser persistence; original TR/EN audio playback; responsive dark/light themes; SG brand identity and FAQ/privacy/service information pages. Randevu, emlak ve sepet davranışları kurgusal demodur; e-posta taslağı gerçek gönderim değildir.
+
+Real Estate Studio includes six business profiles, six templates and 18 fictional listings, with website/mobile previews, a simulated agency dashboard, filters, gallery, favorites, comparison and an illustrative map. Emlak Stüdyosu altı işletme profili, altı şablon ve 18 kurgusal ilan içerir; web/mobil önizleme ve ofis paneli gerçek üretim sisteminden ayrıdır. Legal review and actual hosting verification remain open / Hukuki inceleme ve gerçek hosting doğrulaması devam eden gereksinimlerdir.
 
 ## Prepared, not deployed / Hazırlanmış, dağıtılmamış
 

@@ -14,6 +14,8 @@ Scgenco.com, Sabri Caner Genco’nun profesyonel portfolyo ve dijital hizmetler 
 - Altı kategoride on iki çok sayfalı konsept, canlı düzenleme, yerel görseller ve duyarlı önizlemeler sunan Web Sitesi Stüdyosu.
 - Dört kurgusal sektör, hizmet/ekip düzenleme, simülasyon uygunluk, randevu ve yönetim ekranları sunan Randevu Sistemi Stüdyosu.
 - On iki kişisel/ticari kategori, müzik tercihleri, özgün hikâye/sözler ve anlaşılır şarkı taslağı sunan Müzik Stüdyosu.
+- Altı işletme profili ve altı şablonla 18 kurgusal ilanı web, mobil ve ofis panelinde deneyimleten Emlak Stüdyosu; filtre, galeri, favori, karşılaştırma ve temsili harita.
+- Yeni SG marka kimliği, iki dilli SSS ve gizlilik/hizmet bilgilendirme sayfaları.
 - İsteğe bağlı stüdyo tasarımını taşıyan ve e-posta taslağı/indirilebilir dosya hazırlayan ortak proje özeti.
 - Sahibinin sağladığı Türkçe/İngilizce özgün kayıtlar; desteklenen iç gezinmede kesintisiz ses deneyimi.
 - Açık/koyu tema, duyarlı düzen, erişilebilir etiketler ve klavye etkileşimi.
@@ -29,6 +31,8 @@ Site statik HTML, CSS, JavaScript ve medya olarak önceden üretilir. Stüdyolar
 
 Şu anda üretim backend’i, veritabanı, kimlik doğrulama veya gerçek sahip yönetim sistemi yoktur. Randevu paneli kurgusal demodur. E-posta hazırlama otomatik gönderim yapmaz; müzik stüdyosu ses üretmez; alışveriş önizlemesi ödeme işlemez.
 
+Emlak ofis panelindeki ilan, aday ve gezdirme etkileşimleri de kurgusal tarayıcı simülasyonudur. Harita yerel ve şematiktir; canlı harita veya gerçek rezervasyon değildir. Mobil önizleme, yayımlanmış bir Android/iOS uygulaması değildir. Bilgilendirme sayfaları hukuki incelemenin tamamlandığı iddiasını taşımaz.
+
 ## Teknik öne çıkanlar
 
 Kararlı yapılandırma kimlikleri çevrilmiş etiketlerden ayrıdır. Örnek içerik seçilen dile uyar; özel metinler özgün kalır. Sürümlü dosyalar mevcut çalışmayı değiştirmeden önce doğrulanır. Ortak tasarım ekleri farklı stüdyoları tek talep akışına bağlar. Önizleme stilleri çevredeki açık/koyu temadan bağımsızdır. Tembel editör yüklemesi başlangıç deneyimini odaklı tutar.
@@ -40,6 +44,7 @@ Gerçek uygulamadan, yerleşik kurgusal örneklerle alınmıştır. Müşteri ka
 ![Türkçe web şablon galerisi](assets/screenshots/website-tr.webp)
 ![Türkçe kurgusal randevu konsepti](assets/screenshots/appointment-tr.webp)
 ![Türkçe müzik stüdyosu tanıtımı](assets/screenshots/music-tr.webp)
+![Türkçe Emlak Stüdyosu — kurgusal örnek ilanlar](assets/screenshots/real-estate-tr.webp)
 
 [Görsel notları](assets/screenshots/README.md).
 

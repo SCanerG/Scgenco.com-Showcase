@@ -14,6 +14,8 @@ Scgenco.com is Sabri Caner Genco's professional portfolio and digital services w
 - Website Studio with twelve multi-page concepts across six categories, live customization, local images and responsive previews.
 - Appointment Studio with four fictional industries, service/staff customization, simulated availability, booking and management screens.
 - Music Studio with twelve personal/commercial categories, musical preferences, original stories/lyrics and a customer-friendly song concept review.
+- Real Estate Studio with six business profiles, six templates and 18 fictional listings across website, mobile and agency dashboard previews; filtering, galleries, favorites, comparison and an illustrative map.
+- A new SG brand identity, bilingual FAQ and privacy/service information pages.
 - A unified project brief that can carry an optional studio design and prepare an email draft or a downloadable file.
 - Original owner-provided Turkish/English recordings with continuous playback during supported internal navigation.
 - Dark/light themes, responsive layouts, accessible labels and keyboard interactions.
@@ -29,6 +31,8 @@ The site is pre-rendered into static HTML, CSS, JavaScript and media. Interactiv
 
 No production backend, database, authentication or real owner administration platform is currently implemented. The appointment dashboard is a synthetic demo. Email preparation does not automatically send a request; the music studio does not generate audio; commerce previews do not process payments.
 
+Property, lead and viewing interactions in the real estate dashboard are fictional browser simulations. Its map is local and schematic, with no live mapping or real booking. The mobile preview is not a released Android/iOS app. Information pages do not imply completed legal review.
+
 ## Technical highlights
 
 Stable configuration identities are separate from translated labels. Built-in demo content follows the chosen language while customized content remains original. Versioned imports are validated before replacing active work. Shared project attachments connect distinct studios to one inquiry flow. Preview styling is independent of the surrounding light/dark theme. Lazy editor loading keeps the introductory experience focused.
@@ -40,6 +44,7 @@ Actual application captures, using built-in fictional sample content. No custome
 ![Website Studio template gallery in Turkish](assets/screenshots/website-tr.webp)
 ![Appointment Studio fictional booking concept in Turkish](assets/screenshots/appointment-tr.webp)
 ![Music Studio introduction in Turkish](assets/screenshots/music-tr.webp)
+![Real Estate Studio in Turkish — fictional sample listings](assets/screenshots/real-estate-tr.webp)
 
 [Capture notes](assets/screenshots/README.md).
 

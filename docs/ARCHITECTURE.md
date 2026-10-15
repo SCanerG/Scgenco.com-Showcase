@@ -25,12 +25,18 @@ flowchart TD
   Shell --> Web["Website Studio"]
   Shell --> Booking["Appointment Studio demo"]
   Shell --> Song["Music Studio"]
+  Shell --> Estate["Real Estate Studio demo"]
   Web --> Brief["Unified project brief"]
   Booking --> Brief
   Song --> Brief
+  Estate --> Brief
 ```
 
 ## User data flow / Kullanıcı veri akışı
+
+Real Estate Studio shares one fictional portfolio across website, mobile and agency dashboard previews. It supports local customization, validated concept files and a project brief. The illustrative map, leads and viewings do not connect to live providers or customer systems.
+
+Emlak Stüdyosu web, mobil ve ofis panelinde aynı kurgusal portföyü kullanır. Yerel özelleştirme, doğrulanan konsept dosyaları ve proje özeti desteklenir. Temsili harita, adaylar ve gezdirmeler canlı sağlayıcı veya müşteri sistemine bağlanmaz.
 
 ```mermaid
 flowchart LR

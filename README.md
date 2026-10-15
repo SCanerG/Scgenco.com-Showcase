@@ -15,6 +15,10 @@
 
 ## Explore / İnceleyin
 
+**October 2026 update / Ekim 2026 güncellemesi:** Four connected studios now include Real Estate Studio, alongside the new SG brand identity, bilingual FAQ and privacy/service information pages. The real estate experience uses fictional listings and browser-only simulations.
+
+![Real Estate Studio with fictional sample listings / Kurgusal ilanlarla Emlak Stüdyosu](assets/screenshots/real-estate-tr.webp)
+
 | Presentation / Sunum | Link |
 | --- | --- |
 | High-level architecture / Genel mimari | [Architecture](docs/ARCHITECTURE.md) |
